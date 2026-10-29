@@ -14,8 +14,8 @@ A passionate Software Engineer with **4+ years of hands-on experience** architec
 * **Databases & Storage:** PostgreSQL, MySQL, Oracle, MongoDB, SQL, Supabase, Firebase, Prisma
 * * **Others items are accuaring (running):** CDN, NGINX, Grafana, Prometheus, Server management, Figma Design, GraphQL, Vector Db, Neo4j
 * **DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Jira & Confluence, Docker, Maven, Gradle, Postman, Swagger, Linux
-* **IDEs & Environments:** IntelliJ IDEA, WebStorm, DataGrip, VS Code
-* ** Learning:** AWS, Docker, Kubernetes, Redis, Kafka, rabbitMQ, CyberSecurity, VPS Management, Elastic Search, Networking, Caching, System Design, 
+* **IDEs & Environments:** Windows, Linux, Mac, Notepad/++, Neatbeans, STS, Pycharm, IntelliJ IDEA, WebStorm, DataGrip, VSCode, LLM Studio, Android Studio, Notion, Ollama
+* **Learning:** AWS, Docker, Kubernetes, Redis, Kafka, rabbitMQ, CyberSecurity, VPS Management, Elastic Search, Networking, Caching, System Design
 
 ---
 
@@ -38,9 +38,11 @@ A passionate Software Engineer with **4+ years of hands-on experience** architec
 ## 🚀 Current Projects & Ventures
 
 * **[Rauhie Shop](https://www.rauhieshop.com):** Founder and owner of an e-commerce platform and digital retail brand specializing in homemade personal care products.
+
 * **Continuous Upskilling:** 
   * *Introduction to Programming and Data Analysis with Python* – IIT, University of Dhaka. *(Running)*
   * *MERN Stack Development* with freelancing (AYETS)* – at DIPTI. *(Running)*
+  
   & *Digital Business Operations (SICIP)* – at DIPTI. *(Running)*
   * *PGD in IT and Cyber Security* – IIT, Jahangirnagar University. *(Running)*
 
